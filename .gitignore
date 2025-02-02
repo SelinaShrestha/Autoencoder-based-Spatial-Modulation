@@ -1,0 +1,56 @@
+# MATLAB specific
+*.asv
+*.m~
+*.mat
+*.fig
+*.mdl.autosave
+*.slx.autosave
+slprj/
+sccprj/
+*.slxc
+codegen/
+
+# Datasets
+*.csv
+Datasets/
+
+# Results and Models
+Results/
+Models/
+BestModels/
+
+# Mac OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Editor specific
+*.swp
+*.swo
+*~
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
