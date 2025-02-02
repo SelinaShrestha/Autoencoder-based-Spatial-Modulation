@@ -8,6 +8,16 @@ This work is published in the **IEEE Internet of Things Journal**:
 *IEEE Internet of Things Journal, vol. 11, no. 22, pp. 36322-36334, 15 Nov. 2024.*  
 DOI: [10.1109/JIOT.2024.3390443](https://doi.org/10.1109/JIOT.2024.3390443)
 
+## 🚀 Features
+- **Deep Learning for Wireless Communication**: Uses autoencoder architectures to optimize spatial modulation in Rician fading channel.
+- **Custom Neural Network Layers**: Includes specialized layers such as DataLayer and SMLayer.
+- **BLER Analysis**: Provides evaluation scripts for Block Error Rate benchmarking.
+
+## 🛠️ Technologies Used
+- **MATLAB**: Used for simulations and model development.
+- **Deep Learning Toolbox**: Used to implement autoencoder models with standard and custom layers.
+- **Wireless Communication Toolbox**: Supports MIMO rician fading channel simulations.
+
 ## 🏗️ Project Structure
 
 The project is organized into the following main directories:
